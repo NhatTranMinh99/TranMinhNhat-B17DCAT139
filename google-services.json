@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613761218812",
+    "project_id": "btl-chat",
+    "storage_bucket": "btl-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613761218812:android:40a2b0ea7c9781ed25ff79",
+        "android_client_info": {
+          "package_name": "com.ptit.tmn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613761218812-eilt8m7neou94jfaejm4kq0mg44jn714.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpRmvJG39jvKqM05ZmSjgUfH6liTjUv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613761218812-eilt8m7neou94jfaejm4kq0mg44jn714.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
